@@ -37,6 +37,12 @@
           thumb: "images/IMG_3652_thumb.jpg"
         }
       ],
+      "kotlet mielony, puree ziemniaczane, marchew z groszkiem": [
+        {
+          fullImage: "images/IMG_1525.JPG",
+          thumb: "images/IMG_1525_thumb.JPG"
+        }
+      ],
       "kotlet pożarski, ziemniaki z wody z koperkiem, surówka z selera z rodzynkami": [
         {
           fullImage: "images/IMG_6439.JPG",
@@ -113,6 +119,12 @@
         {
           fullImage: "images/IMG_5349.JPG",
           thumb: "images/IMG_5349_thumb.JPG"
+        }
+      ],
+      "wegetariańskie kotlety z fasoli w sosie warzywnym, kasza kuskus, buraki na ciepło": [
+        {
+          fullImage: "images/IMG_2758.JPG",
+          thumb: "images/IMG_2758_thumb.JPG"
         }
       ],
       wielowarzywna: [
