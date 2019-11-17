@@ -13,6 +13,18 @@
           thumb: "images/IMG_3658_thumb.jpg"
         }
       ],
+      "devolay z żółtym serem, puree ziemniaczano-marchewkowe, surówka z rzodkwi ze śmietaną": [
+        {
+          fullImage: "images/IMG_5148.JPG",
+          thumb: "images/IMG_5148_thumb.JPG"
+        }
+      ],
+      "falafele z soczewicy i warzyw w sosie serowym, pęczka z pietruszką, surówka szwedzka": [
+        {
+          fullImage: "images/IMG_4735.JPG",
+          thumb: "images/IMG_4735_thumb.JPG"
+        }
+      ],
       grochówka: [
         {
           fullImage: "images/IMG_1425.JPG",
@@ -73,6 +85,12 @@
           thumb: "images/IMG_3308_thumb.JPG"
         }
       ],
+      "leczo drobiowe z cukinią, marchewką i pomidorami, kasza jęczmienna, sałata lodowa z selerem naciowym, rodzynkami i śmietaną": [
+        {
+          fullImage: "images/IMG_9282.JPG",
+          thumb: "images/IMG_9282_thumb.JPG"
+        }
+      ],
       "makaron farfalle w sosie z owoców leśnych": [
         {
           fullImage: "images/IMG_3662.jpg",
@@ -101,6 +119,18 @@
         {
           fullImage: "images/IMG_5121.JPG",
           thumb: "images/IMG_5121_thumb.JPG"
+        }
+      ],
+      "pierogi leniwe z bułką tartą, surówka z marchwi z ananasem": [
+        {
+          fullImage: "images/IMG_2719.JPG",
+          thumb: "images/IMG_2719_thumb.JPG"
+        }
+      ],
+      "pierogi ruskie z cebulką, świeża marchew": [
+        {
+          fullImage: "images/IMG_0703_thumb.JPG",
+          thumb: "images/IMG_0703_thumb.JPG"
         }
       ],
       "roladki z kurczaka z nadzieniem serowo - jajecznym, ziemniaki z wody, marchew z jabłkiem": [
