@@ -67,6 +67,12 @@
           thumb: "images/IMG_7280_thumb.JPG"
         }
       ],
+      "kotlet schabowy, puree ziemniaczano-marchewkowe, surówka bałkańska": [
+        {
+          fullImage: "images/IMG_2927.JPG",
+          thumb: "images/IMG_2927_thumb.JPG"
+        }
+      ],
       "kotlety ziemniaczane w sosie pieczarkowym, jajko na twardo, coleslaw": [
         {
           fullImage: "images/IMG-0793.JPG",
@@ -83,6 +89,12 @@
         {
           fullImage: "images/IMG_3308.JPG",
           thumb: "images/IMG_3308_thumb.JPG"
+        }
+      ],
+      "kurczak tikka masala, ryż z porem, surówka wielowarzywna z kalarepą": [
+        {
+          fullImage: "images/IMG_3111.JPG",
+          thumb: "images/IMG_3111_thumb.JPG"
         }
       ],
       "leczo drobiowe z cukinią, marchewką i pomidorami, kasza jęczmienna, sałata lodowa z selerem naciowym, rodzynkami i śmietaną": [
