@@ -37,6 +37,12 @@
           thumb: "images/IMG_7130_thumb.JPG"
         }
       ],
+      "kaszotto drobiowe z fasolką i cukinią, surówka z selera z rodzynkami": [
+        {
+          fullImage: "images/IMG_0871.jpeg",
+          thumb: "images/IMG_0871_thumb.jpeg"
+        }
+      ],
       "kaszotto gryczane z kurczakiem, burakiem i porem": [
         {
           fullImage: "images/IMG-0794.JPG",
