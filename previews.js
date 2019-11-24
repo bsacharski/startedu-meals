@@ -1,6 +1,12 @@
 (function() {
   const mealData = {
     meals: {
+      "bitka drobiowa w sosie pieczeniowym, puree ziemniaczane, marchew baby z zielonym groszkiem": [
+        {
+          fullImage: "images/IMG_0872.jpeg",
+          thumb: "images/IMG_0872_thumb.jpeg"
+        }
+      ],
       "brokułowa z kaszą jaglaną": [
         {
           fullImage: "images/IMG_4492.JPG",
