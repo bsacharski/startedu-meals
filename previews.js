@@ -1,6 +1,12 @@
 (function() {
   const mealData = {
     meals: {
+      "bitka drobiowa w sosie pieczeniowym, puree ziemniaczane, marchew baby z zielonym groszkiem": [
+        {
+          fullImage: "images/IMG_0872.jpeg",
+          thumb: "images/IMG_0872_thumb.jpeg"
+        }
+      ],
       "brokułowa z kaszą jaglaną": [
         {
           fullImage: "images/IMG_4492.JPG",
@@ -19,6 +25,12 @@
           thumb: "images/IMG_5148_thumb.JPG"
         }
       ],
+      "domowe paluszki rybne, ziemniaki opiekane, kiszona kapusta z jabłkiem": [
+        {
+          fullImage: "images/IMG_0875.jpeg",
+          thumb: "images/IMG_0875_thumb.jpeg"
+        }
+      ],
       "falafele z soczewicy i warzyw w sosie serowym, pęczka z pietruszką, surówka szwedzka": [
         {
           fullImage: "images/IMG_4735.JPG",
@@ -35,6 +47,12 @@
         {
           fullImage: "images/IMG_7130.JPG",
           thumb: "images/IMG_7130_thumb.JPG"
+        }
+      ],
+      "kaszotto drobiowe z fasolką i cukinią, surówka z selera z rodzynkami": [
+        {
+          fullImage: "images/IMG_0871.jpeg",
+          thumb: "images/IMG_0871_thumb.jpeg"
         }
       ],
       "kaszotto gryczane z kurczakiem, burakiem i porem": [
@@ -125,6 +143,12 @@
         {
           fullImage: "images/IMG_9904.JPG",
           thumb: "images/IMG_9904_thumb.JPG"
+        }
+      ],
+      "naleśniki z serem, jogurtem naturalnym i truskawkami": [
+        {
+          fullImage: "images/IMG_0876.jpeg",
+          thumb: "images/IMG_0876_thumb.jpeg"
         }
       ],
       "nuggetsy z kurczaka, dip śmietanowo-czosnkowy, ziemniaki opiekane, coleslaw": [
