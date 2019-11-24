@@ -25,6 +25,12 @@
           thumb: "images/IMG_5148_thumb.JPG"
         }
       ],
+      "domowe paluszki rybne, ziemniaki opiekane, kiszona kapusta z jabłkiem": [
+        {
+          fullImage: "images/IMG_0875.jpeg",
+          thumb: "images/IMG_0875_thumb.jpeg"
+        }
+      ],
       "falafele z soczewicy i warzyw w sosie serowym, pęczka z pietruszką, surówka szwedzka": [
         {
           fullImage: "images/IMG_4735.JPG",
