@@ -145,6 +145,12 @@
           thumb: "images/IMG_9904_thumb.JPG"
         }
       ],
+      "naleśniki z serem, jogurtem naturalnym i truskawkami": [
+        {
+          fullImage: "images/IMG_0876.jpeg",
+          thumb: "images/IMG_0876_thumb.jpeg"
+        }
+      ],
       "nuggetsy z kurczaka, dip śmietanowo-czosnkowy, ziemniaki opiekane, coleslaw": [
         {
           fullImage: "images/IMG_5121.JPG",
