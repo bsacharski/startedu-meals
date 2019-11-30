@@ -37,6 +37,12 @@
           thumb: "images/IMG_4735_thumb.JPG"
         }
       ],
+      "gołąbki w sosie pomidorowym, ziemniaki z wody": [
+        {
+          fullImage: "images/IMG_0886.jpeg",
+          thumb: "images/IMG_0886_thumb.jpeg"
+        }
+      ],
       grochówka: [
         {
           fullImage: "images/IMG_1425.JPG",
@@ -47,6 +53,12 @@
         {
           fullImage: "images/IMG_7130.JPG",
           thumb: "images/IMG_7130_thumb.JPG"
+        }
+      ],
+      "kasza pęczak z warzywami po meksykańsku": [
+        {
+          fullImage: "images/IMG_0882.jpeg",
+          thumb: "images/IMG_0882_thumb.jpeg"
         }
       ],
       "kaszotto drobiowe z fasolką i cukinią, surówka z selera z rodzynkami": [
@@ -93,6 +105,10 @@
       ],
       "kotlety ziemniaczane w sosie pieczarkowym, jajko na twardo, coleslaw": [
         {
+          fullImage: "images/IMG_0880.jpeg",
+          thumb: "images/IMG_0880_thumb.jpeg"
+        },
+        {
           fullImage: "images/IMG-0793.JPG",
           thumb: "images/IMG-0793_thumb.JPG"
         }
@@ -113,6 +129,12 @@
         {
           fullImage: "images/IMG_3111.JPG",
           thumb: "images/IMG_3111_thumb.JPG"
+        }
+      ],
+      "kurczak w kremowym sosie z pesto i fasolką szparagową, makaron": [
+        {
+          fullImage: "images/IMG_0884.jpeg",
+          thumb: "images/IMG_0884_thumb.jpeg"
         }
       ],
       "leczo drobiowe z cukinią, marchewką i pomidorami, kasza jęczmienna, sałata lodowa z selerem naciowym, rodzynkami i śmietaną": [
@@ -157,6 +179,12 @@
           thumb: "images/IMG_5121_thumb.JPG"
         }
       ],
+      "panierowany filet z miruny, ziemniaki z wody, kiszona z jabłkiem": [
+        {
+          fullImage: "images/IMG_0889.jpeg",
+          thumb: "images/IMG_0889_thumb.jpeg"
+        }
+      ],
       "pierogi leniwe z bułką tartą, surówka z marchwi z ananasem": [
         {
           fullImage: "images/IMG_2719.JPG",
@@ -185,6 +213,12 @@
         {
           fullImage: "images/IMG_5349.JPG",
           thumb: "images/IMG_5349_thumb.JPG"
+        }
+      ],
+      "wegańskie pulpeciki z groszkiem i soczewicą, kasza perłowa, coleslaw": [
+        {
+          fullImage: "images/IMG_0887.jpeg",
+          thumb: "images/IMG_0887_thumb.jpeg"
         }
       ],
       "wegetariańskie kotlety z fasoli w sosie warzywnym, kasza kuskus, buraki na ciepło": [
