@@ -85,16 +85,22 @@
           thumb: "images/IMG_1525_thumb.JPG"
         }
       ],
+      "kotlet mielony, puree ziemniaczane, marchew z jabłkiem": [
+        {
+          fullImage: "images/IMG_7280.JPG",
+          thumb: "images/IMG_7280_thumb.JPG"
+        }
+      ],
       "kotlet pożarski, ziemniaki z wody z koperkiem, surówka z selera z rodzynkami": [
         {
           fullImage: "images/IMG_6439.JPG",
           thumb: "images/IMG_6439_thumb.JPG"
         }
       ],
-      "kotlet mielony, puree ziemniaczane, marchew z jabłkiem": [
+      "kotlet rybny, ziemniaki z wody z koperkiem, kapusta kiszona z jabłkiem": [
         {
-          fullImage: "images/IMG_7280.JPG",
-          thumb: "images/IMG_7280_thumb.JPG"
+          fullImage: "images/IMG_3806-piatek.jpg",
+          thumb: "images/IMG_3806-piatek_thumb.jpg"
         }
       ],
       "kotlet schabowy, puree ziemniaczano-marchewkowe, surówka bałkańska": [
