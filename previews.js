@@ -215,6 +215,12 @@
           thumb: "images/IMG_9942_thumb.JPG"
         }
       ],
+      "wegański mielony z dynią i warzywami w sosie pomidorowo-paprykowym, ziemniaki z wody, surówka z selera z rodzynkami": [
+        {
+          fullImage: "images/IMG_0957.jpeg",
+          thumb: "images/IMG_0957_thumb.jpeg"
+        }
+      ],
       "wegański mielony z dynią i warzywami w sosie śmietankowym, kasza jaglana z pietruszką, marchew z jabłkiem": [
         {
           fullImage: "images/IMG_5349.JPG",
