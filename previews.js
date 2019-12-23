@@ -245,6 +245,12 @@
           thumb: "images/IMG_3664_thumb.jpg"
         }
       ],
+      "zapiekanka ziemniaczana z kurczakiem, papryką, pomidorami w sosie śmietanowo -serowym": [
+        {
+          fullImage: "images/IMG_0954.jpeg",
+          thumb: "images/IMG_0954_thumb.jpeg"
+        }
+      ],
       "zapiekany ryż z jabłkami, cynamonem i śmietaną": [
         {
           fullImage: "images/IMG_3706.JPG",
