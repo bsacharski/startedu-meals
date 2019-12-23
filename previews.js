@@ -215,6 +215,12 @@
           thumb: "images/IMG_0703_thumb.JPG"
         }
       ],
+      "pulpeciki w sosie pomidorowo-koperkowym, puree ziemniaczano-marchewkowe, ogórek kiszony": [
+        {
+          fullImage: "images/IMG_3802-sroda.jpg",
+          thumb: "images/IMG_3802-sroda_thumb.jpg"
+        }
+      ],
       "roladki z kurczaka z nadzieniem serowo - jajecznym, ziemniaki z wody, marchew z jabłkiem": [
         {
           fullImage: "images/IMG_1742.JPG",
