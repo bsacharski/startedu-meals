@@ -25,6 +25,12 @@
           thumb: "images/IMG_5148_thumb.JPG"
         }
       ],
+      "devolay z żółtym serem i domowym pesto, ziemniaki opiekane, coleslaw": [
+        {
+          fullImage: "images/IMG_3804-czwartek.jpg",
+          thumb: "images/IMG_3804-czwartek_thumb.jpg"
+        }
+      ],
       "domowe paluszki rybne, ziemniaki opiekane, kiszona kapusta z jabłkiem": [
         {
           fullImage: "images/IMG_0875.jpeg",
