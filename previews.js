@@ -143,6 +143,12 @@
           thumb: "images/IMG_9282_thumb.JPG"
         }
       ],
+      "macaroni and cheese - makaron kolanka w sosie serowym szynką, surówka z marchwi z ananasem": [
+        {
+          fullImage: "images/IMG_0955.jpeg",
+          thumb: "images/IMG_0955_thumb.jpeg"
+        }
+      ],
       "makaron farfalle w sosie z owoców leśnych": [
         {
           fullImage: "images/IMG_3662.jpg",
