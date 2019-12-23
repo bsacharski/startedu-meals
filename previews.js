@@ -155,6 +155,12 @@
           thumb: "images/IMG_0955_thumb.jpeg"
         }
       ],
+      "makaron chiński z wieprzowiną, papryką, dymką": [
+        {
+          fullImage: "images/IMG_3800-pon1.jpg",
+          thumb: "images/IMG_3800-pon1_thumb.jpg"
+        }
+      ],
       "makaron farfalle w sosie z owoców leśnych": [
         {
           fullImage: "images/IMG_3662.jpg",
