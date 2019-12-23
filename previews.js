@@ -25,6 +25,12 @@
           thumb: "images/IMG_5148_thumb.JPG"
         }
       ],
+      "devolay z żółtym serem i domowym pesto, ziemniaki opiekane, coleslaw": [
+        {
+          fullImage: "images/IMG_3804-czwartek.jpg",
+          thumb: "images/IMG_3804-czwartek_thumb.jpg"
+        }
+      ],
       "domowe paluszki rybne, ziemniaki opiekane, kiszona kapusta z jabłkiem": [
         {
           fullImage: "images/IMG_0875.jpeg",
@@ -85,16 +91,22 @@
           thumb: "images/IMG_1525_thumb.JPG"
         }
       ],
+      "kotlet mielony, puree ziemniaczane, marchew z jabłkiem": [
+        {
+          fullImage: "images/IMG_7280.JPG",
+          thumb: "images/IMG_7280_thumb.JPG"
+        }
+      ],
       "kotlet pożarski, ziemniaki z wody z koperkiem, surówka z selera z rodzynkami": [
         {
           fullImage: "images/IMG_6439.JPG",
           thumb: "images/IMG_6439_thumb.JPG"
         }
       ],
-      "kotlet mielony, puree ziemniaczane, marchew z jabłkiem": [
+      "kotlet rybny, ziemniaki z wody z koperkiem, kapusta kiszona z jabłkiem": [
         {
-          fullImage: "images/IMG_7280.JPG",
-          thumb: "images/IMG_7280_thumb.JPG"
+          fullImage: "images/IMG_3806-piatek.jpg",
+          thumb: "images/IMG_3806-piatek_thumb.jpg"
         }
       ],
       "kotlet schabowy, puree ziemniaczano-marchewkowe, surówka bałkańska": [
@@ -149,6 +161,12 @@
           thumb: "images/IMG_0955_thumb.jpeg"
         }
       ],
+      "makaron chiński z wieprzowiną, papryką, dymką": [
+        {
+          fullImage: "images/IMG_3800-pon1.jpg",
+          thumb: "images/IMG_3800-pon1_thumb.jpg"
+        }
+      ],
       "makaron farfalle w sosie z owoców leśnych": [
         {
           fullImage: "images/IMG_3662.jpg",
@@ -201,6 +219,12 @@
         {
           fullImage: "images/IMG_0703_thumb.JPG",
           thumb: "images/IMG_0703_thumb.JPG"
+        }
+      ],
+      "pulpeciki w sosie pomidorowo-koperkowym, puree ziemniaczano-marchewkowe, ogórek kiszony": [
+        {
+          fullImage: "images/IMG_3802-sroda.jpg",
+          thumb: "images/IMG_3802-sroda_thumb.jpg"
         }
       ],
       "roladki z kurczaka z nadzieniem serowo - jajecznym, ziemniaki z wody, marchew z jabłkiem": [
