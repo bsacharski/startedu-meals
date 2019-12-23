@@ -143,6 +143,12 @@
           thumb: "images/IMG_9282_thumb.JPG"
         }
       ],
+      "macaroni and cheese - makaron kolanka w sosie serowym szynką, surówka z marchwi z ananasem": [
+        {
+          fullImage: "images/IMG_0955.jpeg",
+          thumb: "images/IMG_0955_thumb.jpeg"
+        }
+      ],
       "makaron farfalle w sosie z owoców leśnych": [
         {
           fullImage: "images/IMG_3662.jpg",
@@ -209,6 +215,12 @@
           thumb: "images/IMG_9942_thumb.JPG"
         }
       ],
+      "wegański mielony z dynią i warzywami w sosie pomidorowo-paprykowym, ziemniaki z wody, surówka z selera z rodzynkami": [
+        {
+          fullImage: "images/IMG_0957.jpeg",
+          thumb: "images/IMG_0957_thumb.jpeg"
+        }
+      ],
       "wegański mielony z dynią i warzywami w sosie śmietankowym, kasza jaglana z pietruszką, marchew z jabłkiem": [
         {
           fullImage: "images/IMG_5349.JPG",
@@ -243,6 +255,12 @@
         {
           fullImage: "images/IMG_3664.jpg",
           thumb: "images/IMG_3664_thumb.jpg"
+        }
+      ],
+      "zapiekanka ziemniaczana z kurczakiem, papryką, pomidorami w sosie śmietanowo -serowym": [
+        {
+          fullImage: "images/IMG_0954.jpeg",
+          thumb: "images/IMG_0954_thumb.jpeg"
         }
       ],
       "zapiekany ryż z jabłkami, cynamonem i śmietaną": [
