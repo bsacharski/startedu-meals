@@ -203,12 +203,6 @@
           thumb: "images/IMG_5121_thumb.JPG"
         }
       ],
-      "panierowany filet z kurczak, puree ziemniaczano-marchewkowe, surówka z czerwonej kapusty i marchwi": [
-        {
-          fullImage: "images/IMG_0969.jpeg",
-          thumb: "images/IMG_0969_thumb.jpeg"
-        }
-      ],
       "panierowany filet z miruny, ziemniaki z wody, kiszona z jabłkiem": [
         {
           fullImage: "images/IMG_0889.jpeg",
@@ -249,6 +243,12 @@
         {
           fullImage: "images/IMG_9942.JPG",
           thumb: "images/IMG_9942_thumb.JPG"
+        }
+      ],
+      "udko z pieca, puree ziemniaczane, marchew baby z zielonym groszkiem": [
+        {
+          fullImage: "images/IMG_0969.jpeg",
+          thumb: "images/IMG_0969_thumb.jpeg"
         }
       ],
       "wegański mielony z dynią i warzywami w sosie pomidorowo-paprykowym, ziemniaki z wody, surówka z selera z rodzynkami": [
