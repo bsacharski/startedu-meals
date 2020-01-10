@@ -179,6 +179,12 @@
           thumb: "images/IMG_5121_thumb.JPG"
         }
       ],
+      "panierowany filet z kurczak, puree ziemniaczano-marchewkowe, surówka z czerwonej kapusty i marchwi": [
+        {
+          fullImage: "images/IMG_0969.jpeg",
+          thumb: "images/IMG_0969_thumb.jpeg"
+        }
+      ],
       "panierowany filet z miruny, ziemniaki z wody, kiszona z jabłkiem": [
         {
           fullImage: "images/IMG_0889.jpeg",
