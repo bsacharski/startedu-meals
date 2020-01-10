@@ -203,6 +203,12 @@
           thumb: "images/IMG_1742_thumb.JPG"
         }
       ],
+      "spaghetti bolognese": [
+        {
+          fullImage: "images/IMG_0968.jpeg",
+          thumb: "images/IMG_0968_thumb.jpeg"
+        }
+      ],
       "spaghetti z klopsikami rybnymi w sosie pomidorowym z cukinią": [
         {
           fullImage: "images/IMG_9942.JPG",
