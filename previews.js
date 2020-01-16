@@ -43,6 +43,12 @@
           thumb: "images/IMG_4735_thumb.JPG"
         }
       ],
+      "fasolka po bretońsku, świeże pieczywo": [
+        {
+          fullImage: "images/IMG_0976.jpeg",
+          thumb: "images/IMG_0976_thumb.jpeg"
+        }
+      ],
       "gołąbki w sosie pomidorowym, ziemniaki z wody": [
         {
           fullImage: "images/IMG_0886.jpeg",
