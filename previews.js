@@ -31,6 +31,12 @@
           thumb: "images/IMG_3804-czwartek_thumb.jpg"
         }
       ],
+      "devolay z żółtym serem i domowym pesto, puree ziemniaczano-marchewkowe, coleslaw": [
+        {
+          fullImage: "images/IMG_0973.jpeg",
+          thumb: "images/IMG_0973_thumb.jpeg"
+        }
+      ],
       "domowe paluszki rybne, ziemniaki opiekane, kiszona kapusta z jabłkiem": [
         {
           fullImage: "images/IMG_0875.jpeg",
@@ -41,6 +47,12 @@
         {
           fullImage: "images/IMG_4735.JPG",
           thumb: "images/IMG_4735_thumb.JPG"
+        }
+      ],
+      "fasolka po bretońsku, świeże pieczywo": [
+        {
+          fullImage: "images/IMG_0976.jpeg",
+          thumb: "images/IMG_0976_thumb.jpeg"
         }
       ],
       "gołąbki w sosie pomidorowym, ziemniaki z wody": [
@@ -225,6 +237,12 @@
         {
           fullImage: "images/IMG_3802-sroda.jpg",
           thumb: "images/IMG_3802-sroda_thumb.jpg"
+        }
+      ],
+      "pulpeciki drobiowe w sosie pomidorowo-koperkowym, puree ziemniaczano-marchewkowe, ogórek kiszony": [
+        {
+          fullImage: "images/IMG_0971.jpeg",
+          thumb: "images/IMG_0971_thumb.jpeg"
         }
       ],
       "roladki z kurczaka z nadzieniem serowo - jajecznym, ziemniaki z wody, marchew z jabłkiem": [
