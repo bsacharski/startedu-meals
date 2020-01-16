@@ -31,6 +31,12 @@
           thumb: "images/IMG_3804-czwartek_thumb.jpg"
         }
       ],
+      "devolay z żółtym serem i domowym pesto, puree ziemniaczano-marchewkowe, coleslaw": [
+        {
+          fullImage: "images/IMG_0973.jpeg",
+          thumb: "images/IMG_0973_thumb.jpeg"
+        }
+      ],
       "domowe paluszki rybne, ziemniaki opiekane, kiszona kapusta z jabłkiem": [
         {
           fullImage: "images/IMG_0875.jpeg",
