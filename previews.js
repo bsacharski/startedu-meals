@@ -191,6 +191,12 @@
           thumb: "images/IMG_3662_thumb.jpg"
         }
       ],
+      "makaron pełnoziarnisty w sosie pomidorowym z mięsem drobiowym, warzywami i żółtym serem": [
+        {
+          fullImage: "images/IMG_0982.jpeg",
+          thumb: "images/IMG_0982_thumb.jpeg"
+        }
+      ],
       "makaron penne rigatte z dynią, szpinakiem, suszonymi pomidorami i serem feta": [
         {
           fullImage: "images/IMG_0162.JPG",
