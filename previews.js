@@ -275,6 +275,12 @@
           thumb: "images/IMG_0971_thumb.jpeg"
         }
       ],
+      "pulpety z indyka z dodatkiem marchwi w sosie maślano-cytrynowym, kasza jaglana z pietruszką, surówka szwedzka": [
+        {
+          fullImage: "images/IMG_0986.jpeg",
+          thumb: "images/IMG_0986_thumb.jpeg"
+        }
+      ],
       "roladki z kurczaka z nadzieniem serowo - jajecznym, ziemniaki z wody, marchew z jabłkiem": [
         {
           fullImage: "images/IMG_1742.JPG",
