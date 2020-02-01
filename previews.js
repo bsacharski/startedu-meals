@@ -109,6 +109,12 @@
           thumb: "images/IMG_7280_thumb.JPG"
         }
       ],
+      "kotlet mielony, ziemniaki z wody, buraczki": [
+        {
+          fullImage: "images/IMG_0981.jpeg",
+          thumb: "images/IMG_0981_thumb.jpeg"
+        }
+      ],
       "kotlet pożarski, ziemniaki z wody z koperkiem, surówka z selera z rodzynkami": [
         {
           fullImage: "images/IMG_6439.JPG",
