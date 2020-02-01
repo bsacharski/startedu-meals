@@ -209,6 +209,12 @@
           thumb: "images/IMG_0336_thumb.JPG"
         }
       ],
+      "marynowane filety z kurczaka zapiekane z pomidorami i żółtym serem, biały ryż, surówka z marchwi i selera": [
+        {
+          fullImage: "images/IMG_0983.jpeg",
+          thumb: "images/IMG_0983_thumb.jpeg"
+        }
+      ],
       "marynowane pałki z kurczaka w jogurcie i przyprawach, biały ryż, marchew baby z zielonym groszkiem": [
         {
           fullImage: "images/IMG_0980.jpeg",
