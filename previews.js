@@ -257,6 +257,12 @@
           thumb: "images/IMG_0889_thumb.jpeg"
         }
       ],
+      "pieczeń wieprzowa w sosie własnym, kluski śląskie własnej produkcji, surówka z czerwonej kapusty i marchwi": [
+        {
+          fullImage: "images/IMG_0989.jpeg",
+          thumb: "images/IMG_0989_thumb.jpeg"
+        }
+      ],
       "pierogi leniwe z bułką tartą, surówka z marchwi z ananasem": [
         {
           fullImage: "images/IMG_2719.JPG",
