@@ -299,6 +299,12 @@
           thumb: "images/IMG_9942_thumb.JPG"
         }
       ],
+      "strogonow, kasza gryczana, buraczki": [
+        {
+          fullImage: "images/IMG_0987.jpeg",
+          thumb: "images/IMG_0987_thumb.jpeg"
+        }
+      ],
       "udko z pieca, puree ziemniaczane, marchew baby z zielonym groszkiem": [
         {
           fullImage: "images/IMG_0969.jpeg",
