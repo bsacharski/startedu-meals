@@ -133,6 +133,12 @@
           thumb: "images/IMG_2927_thumb.JPG"
         }
       ],
+      "kotlet schabowy, ziemniaki z wody, groszek z marchewką": [
+        {
+          fullImage: "images/IMG_0988.jpeg",
+          thumb: "images/IMG_0988_thumb.jpeg"
+        }
+      ],
       "kotlety ziemniaczane w sosie pieczarkowym, jajko na twardo, coleslaw": [
         {
           fullImage: "images/IMG_0880.jpeg",
