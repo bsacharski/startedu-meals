@@ -109,6 +109,12 @@
           thumb: "images/IMG_7280_thumb.JPG"
         }
       ],
+      "kotlet mielony, ziemniaki z wody, buraczki": [
+        {
+          fullImage: "images/IMG_0981.jpeg",
+          thumb: "images/IMG_0981_thumb.jpeg"
+        }
+      ],
       "kotlet pożarski, ziemniaki z wody z koperkiem, surówka z selera z rodzynkami": [
         {
           fullImage: "images/IMG_6439.JPG",
@@ -125,6 +131,12 @@
         {
           fullImage: "images/IMG_2927.JPG",
           thumb: "images/IMG_2927_thumb.JPG"
+        }
+      ],
+      "kotlet schabowy, ziemniaki z wody, groszek z marchewką": [
+        {
+          fullImage: "images/IMG_0988.jpeg",
+          thumb: "images/IMG_0988_thumb.jpeg"
         }
       ],
       "kotlety ziemniaczane w sosie pieczarkowym, jajko na twardo, coleslaw": [
@@ -185,6 +197,12 @@
           thumb: "images/IMG_3662_thumb.jpg"
         }
       ],
+      "makaron pełnoziarnisty w sosie pomidorowym z mięsem drobiowym, warzywami i żółtym serem": [
+        {
+          fullImage: "images/IMG_0982.jpeg",
+          thumb: "images/IMG_0982_thumb.jpeg"
+        }
+      ],
       "makaron penne rigatte z dynią, szpinakiem, suszonymi pomidorami i serem feta": [
         {
           fullImage: "images/IMG_0162.JPG",
@@ -195,6 +213,18 @@
         {
           fullImage: "images/IMG_0336.JPG",
           thumb: "images/IMG_0336_thumb.JPG"
+        }
+      ],
+      "marynowane filety z kurczaka zapiekane z pomidorami i żółtym serem, biały ryż, surówka z marchwi i selera": [
+        {
+          fullImage: "images/IMG_0983.jpeg",
+          thumb: "images/IMG_0983_thumb.jpeg"
+        }
+      ],
+      "marynowane pałki z kurczaka w jogurcie i przyprawach, biały ryż, marchew baby z zielonym groszkiem": [
+        {
+          fullImage: "images/IMG_0980.jpeg",
+          thumb: "images/IMG_0980_thumb.jpeg"
         }
       ],
       "maślane naleśniki z warzywną caponatą": [
@@ -227,6 +257,12 @@
           thumb: "images/IMG_0889_thumb.jpeg"
         }
       ],
+      "pieczeń wieprzowa w sosie własnym, kluski śląskie własnej produkcji, surówka z czerwonej kapusty i marchwi": [
+        {
+          fullImage: "images/IMG_0989.jpeg",
+          thumb: "images/IMG_0989_thumb.jpeg"
+        }
+      ],
       "pierogi leniwe z bułką tartą, surówka z marchwi z ananasem": [
         {
           fullImage: "images/IMG_2719.JPG",
@@ -251,6 +287,12 @@
           thumb: "images/IMG_0971_thumb.jpeg"
         }
       ],
+      "pulpety z indyka z dodatkiem marchwi w sosie maślano-cytrynowym, kasza jaglana z pietruszką, surówka szwedzka": [
+        {
+          fullImage: "images/IMG_0986.jpeg",
+          thumb: "images/IMG_0986_thumb.jpeg"
+        }
+      ],
       "roladki z kurczaka z nadzieniem serowo - jajecznym, ziemniaki z wody, marchew z jabłkiem": [
         {
           fullImage: "images/IMG_1742.JPG",
@@ -267,6 +309,12 @@
         {
           fullImage: "images/IMG_9942.JPG",
           thumb: "images/IMG_9942_thumb.JPG"
+        }
+      ],
+      "strogonow, kasza gryczana, buraczki": [
+        {
+          fullImage: "images/IMG_0987.jpeg",
+          thumb: "images/IMG_0987_thumb.jpeg"
         }
       ],
       "udko z pieca, puree ziemniaczane, marchew baby z zielonym groszkiem": [
