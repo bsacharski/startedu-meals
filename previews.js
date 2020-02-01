@@ -197,6 +197,12 @@
           thumb: "images/IMG_0336_thumb.JPG"
         }
       ],
+      "marynowane pałki z kurczaka w jogurcie i przyprawach, biały ryż, marchew baby z zielonym groszkiem": [
+        {
+          fullImage: "images/IMG_0980.jpeg",
+          thumb: "images/IMG_0980_thumb.jpeg"
+        }
+      ],
       "maślane naleśniki z warzywną caponatą": [
         {
           fullImage: "images/IMG_9904.JPG",
