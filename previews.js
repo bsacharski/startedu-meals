@@ -209,6 +209,12 @@
           thumb: "images/IMG_0162_thumb.JPG"
         }
       ],
+      "makaron tagliatelle z dyniowym sosem carbonara": [
+        {
+          fullImage: "images/BDD87F1E-6B2B-4047-888F-D175A75463E1.jpg",
+          thumb: "images/BDD87F1E-6B2B-4047-888F-D175A75463E1_thumb.jpg"
+        }
+      ],
       "marynowane filety z kurczaka zapiekane z pomidorami i żółtym serem, biały ryż, surówka wielowarzywna": [
         {
           fullImage: "images/IMG_0336.JPG",
